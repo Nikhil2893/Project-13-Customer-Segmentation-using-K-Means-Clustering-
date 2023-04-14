@@ -27,7 +27,7 @@ By the end of this case study , you would be able to answer below questions.
 
 1. Importing Dependencies
 
-3. Importing dataset and EDA
+2. Importing dataset and EDA
 
 ![1](https://user-images.githubusercontent.com/114944969/229413810-10127ba8-3484-4962-a6f5-e5944aa90984.jpg)
 
